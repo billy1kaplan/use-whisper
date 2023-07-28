@@ -1,5 +1,5 @@
 {
-  "name": "@chengsokdara/use-whisper",
+  "name": "@billy1kaplan/use-whisper",
   "version": "0.3.0-bk",
   "description": "React Hook for OpenAI Whisper API with speech recorder and silence removal built-in.",
   "keywords": [
@@ -17,11 +17,11 @@
     "remove",
     "removal"
   ],
-  "homepage": "https://github.com/chengsokdara/use-whisper#readme",
-  "bugs": "https://github.com/chengsokdara/use-whisper/issues",
+  "homepage": "https://github.com/billy1kaplan/use-whisper#readme",
+  "bugs": "https://github.com/billy1kaplan/use-whisper/issues",
   "license": "MIT",
-  "author": "Sokdara Cheng <chengsokdara@gmail.com> (https://chengsokdara.github.io)",
-  "repository": "github:chengsokdara/use-whisper",
+  "author": "Billy Kaplan <billy1kaplan@gmail.com>",
+  "repository": "github:billy1kaplan/use-whisper",
   "scripts": {
     "dev": "env NODE_ENV=development tsup",
     "build": "env NODE_ENV=production tsup",
